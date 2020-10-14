@@ -1,9 +1,10 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
-use Testing\Php\Runner;
+use Lib\Php\Runner;
 
+require __DIR__ . '/vendor/autoload.php';
 
-
-
+// Файл не включается на прямую
+// Он загрузится автоматически благодаря автозагрузке
 
 print_r(Runner\run());
