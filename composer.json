@@ -11,8 +11,8 @@
         ]
     },
     "bin": [
-        "./sayHi.php",
-        "./sayBye.php"
+        "sayHi",
+        "sayBye"
     ],
     "scripts": {
         "phpcs": "phpcs"
