@@ -11,8 +11,8 @@
         ]
     },
     "bin": [
-        "sayHi",
-        "sayBye"
+        "./sayHi",
+        "./sayBye"
     ],
     "scripts": {
         "phpcs": "phpcs"
