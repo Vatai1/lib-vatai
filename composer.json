@@ -13,7 +13,7 @@
     "scripts": {
         "phpcs": "phpcs"
     },
-    "name": "vatai/testing",
+    "name": "vatai/lib-vatai",
     "require": {
         "tightenco/collect": "^8.0",
         "phploc/phploc": "^7.0"
